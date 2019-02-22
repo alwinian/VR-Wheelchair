@@ -5,5 +5,7 @@ The code allowed a user to progress through a VR world written in Unity. The Ard
 A video fly through of the world can be seen here:
 
 https://vimeo.com/209652203 - Flythrough the world
+
 https://vimeo.com/193615781 - First Person
+
 https://vimeo.com/170078026 - Set up with Mobile/Laptop/Wheelchair
